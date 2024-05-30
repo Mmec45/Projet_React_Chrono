@@ -14,7 +14,7 @@ Ce projet est une application Pomodoro développée en React. Elle aide les util
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/Pomodoro-React-App.git
+   git clone https://github.com/Mmec45/Pomodoro-React-App.git
    
 2. Accédez au répertoire du projet :
    ```bash
